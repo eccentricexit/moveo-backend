@@ -1,5 +1,9 @@
 # moveo | backend
 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![git-flow friendly](https://img.shields.io/badge/git-flow-brightgreen.svg)](https://danielkummer.github.io/git-flow-cheatsheet/index.html)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 > Server of static SPA and api for creating users, fetching trip information and downloading images.
 
 See frontend.spec.md for details on the SPA.
